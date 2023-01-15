@@ -99,7 +99,7 @@ var res = outer(10)(_ + _)(20)
   var res = inner(20)
   println(res)
 ```
-![Pasted Graphic 8.png](..%2F..%2FLibrary%2FGroup%20Containers%2Fgroup.com.apple.notes%2FAccounts%2F91446127-E8D3-43F3-908A-052A1D073119%2FMedia%2FC7374F59-0F80-4DC5-9F42-BCC6C4D85C94%2FPasted%20Graphic%208.png)
+<img width="920" alt="Pasted Graphic 8" src="https://user-images.githubusercontent.com/42689061/212572820-2533b664-5ea5-4424-8875-e31e418c2eec.png">
 
 ### Control abstraction
 Use code as a parameter, can be used to define grammar since you can change the logics through the code(try-catch)
