@@ -34,7 +34,7 @@ def merge[T](xs: List[T], ys: List[T]) = (xs, ys) match
         else ...
 
 // call msort as follows
-val xs = List(-5, 6, 3, 2, 7)
+val xs = List(-5, 6, 3, 2, 7, 8)
 val fruits = List("apple", "pear", "orange", "pineapple")
 
 msort(xs)((x, y) => x < y)
